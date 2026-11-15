@@ -1,72 +1,72 @@
 # Ciência da atenção e retenção (estudos, não redes sociais)
 
-Atualizado em 15/11/2026 com os PDFs que você enviou, guardados em `fontes/`. Cada item diz exatamente o que foi lido. A coluna "uso no vídeo" é inferência minha, não resultado do estudo: tudo "para testar".
-Legenda: LIDO = texto do PDF lido (indico as partes); NÃO LIDO = só resumo de busca, sem o texto.
+Atualizado em 15/11/2026 após ler por inteiro os 5 PDFs de `fontes/`. A coluna "uso no vídeo" é inferência minha, não resultado dos estudos: tudo "para testar". Nenhum destes estudos testou vídeo curto.
 
-## O que foi lido e o que não foi
-- Loewenstein (1994): LIDO por inteiro (24 págs.; as últimas 3 são só referências). Os estudos que ele cita (Jones 1979, Loewenstein e colegas 1992, Lowry e Johnson 1981, Felcher e colegas 1993, Berlyne) NÃO foram lidos no original; o que escrevo deles é o que o Loewenstein conta.
-- Kang e colegas (2009): LIDO método, resultados e discussão (quase todo).
-- Shin e Kim (2019): LIDO resumo e as partes sobre lacuna de informação, gatilhos e diferença entre curiosidade e interesse. Não li o texto todo (22 págs.).
-- Ghibellini e Meier (2025): LIDO resumo, resultados e discussão. Não li a introdução histórica em detalhe.
-- Reportagem do PsyPost sobre Nguyen e colegas (2025): LIDO págs. 1-7. É reportagem, NÃO o artigo original.
-- NÃO LIDOS (sem o texto): Lang 1993, Heimann 2016, Gruber 2014, Kahneman 1993, artigo original de Nguyen 2025, Mayer.
+## Cobertura da leitura
+- LIDOS por inteiro (sem as listas de referências): Loewenstein 1994 (24 págs.), Kang e colegas 2009, Shin e Kim 2019, Ghibellini e Meier 2025. Os estudos que eles citam NÃO foram lidos no original; o que escrevo deles é o que o autor conta.
+- Reportagem do PsyPost sobre Nguyen e colegas 2025: lida inteira (págs. 8-10 são só rodapé). É reportagem, NÃO o artigo original.
+- NÃO LIDOS (sem o texto): Lang 1993, Heimann 2016, Gruber 2014, Kahneman 1993, Mayer, artigo original de Nguyen 2025.
 
-## 1. Curiosidade como lacuna de informação (LIDO)
-**Loewenstein (1994, Psychological Bulletin).** Teoria: curiosidade surge quando a atenção se volta para uma lacuna entre o que se sabe e o que se quer saber. Pontos que li:
-- A curiosidade tende a AUMENTAR com o conhecimento sobre o tema, porque quem já sabe um pouco foca no que falta (ex.: saber 47 de 50 capitais). Apoio citado: correlação de 0,51 entre conhecimento e curiosidade (Jones, 1979); em experimento de Loewenstein e colegas (1992), a curiosidade subiu com o número de fotos vistas.
-- Pode CAIR se a informação nova mostra que há muito mais a saber, ou quando já dá para adivinhar a resposta com confiança.
-- Fatores que despertam curiosidade (págs. 91-92): uma pergunta ou charada; uma sequência com resolução esperada mas desconhecida (ex.: quem ganha); expectativa violada; saber que outra pessoa tem a informação; ter a resposta "na ponta da língua".
-- Adivinhar COM retorno sobre o acerto aumentou a curiosidade; adivinhar sozinho ou só receber retorno não teve efeito principal (experimento dos estados dos EUA).
-- Sem perceber a lacuna não há curiosidade (quem acha que já sabe quase tudo não se interessa).
-- A curiosidade é transitória: exige atenção e some se a atenção é desviada. O autor também descreve que a satisfação pode decepcionar.
-- Previsão da teoria (não vi teste direto dela no artigo): pessoas evitam se expor a situações que geram curiosidade quando há pouca chance de satisfação ou demora longa.
-- Intensa, passageira, impulsiva e que decepciona (págs. 86 e 92): a curiosidade é forte mas some rápido quando o estímulo sai de vista; pode levar a agir contra o próprio interesse; e, quando satisfeita, o resultado costuma ser decepcionante (exemplo citado: entrevista com 30 pessoas sobre a correspondência recebida, apresentada em congresso, não publicada em periódico). Uso no vídeo (inferência): a entrega precisa valer a promessa do gancho.
-- Controvérsia (pág. 85-86): estudo de sala de aula citado (Lowry e Johnson, 1981; alunos de 5º e 6º ano): 45% do grupo com interação conflituosa abriu mão do recreio para ver um filme, contra 18% do grupo sem controvérsia. É o único apoio para "afirmação polêmica" como gancho que li; é de sala de aula, não de vídeo.
-- Incongruência (Hebb, Piaget, Hunt, págs. 82-83): a ideia de U invertido entre surpresa e curiosidade é descrita pelo autor como intuitiva mas com pouco apoio empírico (uma revisão sistemática achou apoio misto). O U invertido aparece com dados em Kang (2009), com a confiança na resposta.
-- Escalas de curiosidade como traço (págs. 77-79): medidas inconsistentes; o autor conclui que estudar curiosidade de situação é mais promissor. Sem efeito direto para vídeo.
-- Educação (pág. 94): para gerar curiosidade é preciso uma base de conhecimento prévia ("primar a bomba") e tornar visíveis lacunas administráveis. Combina com "contexto mínimo" antes do gancho no `metodo.md` (inferência).
-- Limites do próprio autor: a teoria trata só de curiosidade epistêmica específica; muitas buscas por informação ocorrem sem curiosidade; várias previsões "ainda não foram testadas".
+## 1. Curiosidade: o que gera e o que mantém
+**Loewenstein (1994, Psychological Bulletin; revisão e teoria).**
+- Curiosidade surge quando a atenção se volta para uma lacuna entre o que se sabe e o que se quer saber. É um estado desagradável que a pessoa quer resolver; resolver dá prazer.
+- Aumenta com o conhecimento prévio sobre o tema (quem sabe 47 de 50 capitais foca nas 3 que faltam). Apoio citado: correlação 0,51 entre conhecimento e curiosidade (Jones, 1979); curiosidade subiu com o número de fotos vistas (Loewenstein e colegas, 1992). Pode cair se a informação nova mostra que há muito mais a saber, ou se a resposta já dá para adivinhar.
+- Gatilhos (págs. 91-92): pergunta ou charada; sequência com final esperado mas desconhecido; expectativa violada; saber que outra pessoa tem a informação; ter a resposta "na ponta da língua". Charadas de "insight" geraram mais curiosidade que tarefas incrementais.
+- Palpite com retorno: receber o retorno depois de cada palpite aumentou a curiosidade mais que receber todos juntos no fim (estados dos EUA). Sem perceber a lacuna não há curiosidade.
+- Forte, passageira, impulsiva e decepcionante (págs. 86, 92): some quando a atenção sai do estímulo; pode levar a agir contra o próprio interesse; satisfeita, costuma decepcionar (exemplo: entrevista com 30 pessoas sobre a correspondência recebida, apresentada em congresso, não publicada).
+- Controvérsia (pág. 85-86): em sala de aula (Lowry e Johnson, 1981), 45% do grupo com interação conflituosa abriu mão do recreio para ver um filme, contra 18% do grupo sem controvérsia. Único apoio que li para "afirmação polêmica" como gancho; não é de vídeo.
+- Teoria da incongruência (Hebb, Piaget, Hunt): U invertido entre surpresa e curiosidade. O autor a chama de intuitiva, com pouco apoio empírico.
+- Previsão (sem teste direto no artigo): pessoas evitam situações que geram curiosidade se a chance de satisfação é pequena ou a demora longa.
+- Limites do autor: só trata de curiosidade epistêmica específica; muita busca por informação ocorre sem curiosidade; muitas previsões ainda não testadas. Escalas de curiosidade como traço são inconsistentes.
 
-**Kang e colegas (2009, Psychological Science), "The Wick in the Candle of Learning".** Perguntas de conhecimento geral:
-- Exp. 1: 19 estudantes do Caltech em fMRI. A curiosidade formou um U invertido com a confiança na resposta, com pico perto de 50% (correlação 0,44 com P(1−P), p < 0,0005). A curiosidade se correlacionou com atividade no caudado, região ligada à antecipação de recompensa.
-- Exp. 2: 16 estudantes, 12 voltaram após 11 a 16 dias. Respostas de perguntas com palpite errado foram mais lembradas quando a curiosidade era alta do que média (t(12) = 2,37, d = 0,74).
-- Exp. 3: 30 estudantes. Quanto mais curiosos, mais gastavam fichas ou tempo para ver a resposta; esperaram 3,7 s a mais por cada desvio-padrão de curiosidade.
-- Limites dos autores: estudo exploratório; mediu curiosidade específica por informação, que provavelmente difere da curiosidade por novidade ou tédio. Observação minha: fMRI não mede dopamina diretamente.
-- ATENÇÃO, correção: na 1ª versão atribuí a ligação "curiosidade e circuito de recompensa" ao Gruber (2014), que NÃO li. O que está lido é este Kang 2009.
+**Kang e colegas (2009, Psychological Science).** Perguntas de conhecimento geral; participantes: estudantes do Caltech.
+- Exp. 1 (fMRI, 19 estudantes): curiosidade em U invertido com a confiança na resposta, pico perto de 50% (curiosidade = 0,49 − 0,39P + 4,77P(1−P)); correlação com P(1−P) r = 0,44, p < 0,0005. Curiosidade correlacionou com atividade do caudado esquerdo (antecipação de recompensa) e do córtex pré-frontal lateral. Sem ativação no núcleo accumbens. Ao revelar a resposta, áreas de memória foram mais ativas após palpite errado, e mais ainda quanto maior a curiosidade.
+- Exp. 2 (16 estudantes, 12 voltaram 11 a 16 dias depois; respostas de palpites errados): recall maior com curiosidade alta que média (t(10) = 2,10, d = 0,61), média que baixa (t(12) = 2,37, d = 0,74) e alta que baixa (t(10) = 3,13, d = 1,11). Pupila dilatou antes da resposta nas perguntas de alta curiosidade (d = 0,23).
+- Exp. 3 (30 estudantes, 10 com fichas e 20 com tempo): quanto mais curiosos, mais gastavam fichas ou tempo para ver a resposta (p < 0,001; 28 de 30 individualmente); esperaram 3,7 s a mais por desvio-padrão de curiosidade.
+- Limites dos autores: estudo exploratório; só fMRI não separa recompensa de atenção (o Exp. 3 apoia recompensa); mede curiosidade específica por informação, que difere da curiosidade por novidade ou tédio. Observação minha: fMRI não mede dopamina diretamente. Correção: a ligação curiosidade-recompensa que eu atribuía ao Gruber (2014, NÃO lido) está aqui no Kang.
 
-**Shin e Kim (2019, Educational Psychology Review), revisão (não traz dados novos).** Curiosidade é um estado desagradável causado por uma lacuna de informação; a relação com a incerteza tem forma de U invertido (informação demais ou lacuna grande demais "mata" a curiosidade). Só surge se a pessoa reconhece a lacuna. Charadas, perguntas e histórias com reviravolta funcionam porque tornam a lacuna visível. Curiosidade é diferente de "interesse situacional".
-
-Correção da 1ª versão: eu disse que "lacuna pequena e perceptível gera mais curiosidade". Isso veio de resumo secundário e era impreciso. O que li: curiosidade é maior com lacuna intermediária e com algum conhecimento prévio, e some com lacuna enorme ou com resposta já adivinhável.
+**Shin e Kim (2019, Educational Psychology Review; revisão sem dados novos).**
+- Curiosidade é estado aversivo causado por uma lacuna; relação com a incerteza em U invertido ("zona de curiosidade", Day 1982): incerteza alta demais gera ansiedade, baixa demais gera tédio. Só surge se a pessoa reconhece a lacuna; charadas, perguntas e histórias com reviravolta a tornam visível.
+- Curiosidade pesa custo e benefício: busca-se a informação se ela parece valiosa, relevante e alcançável, e se o esforço e o custo emocional são baixos. Resolução parcial e feedback imediato aumentam a curiosidade (aproximação da meta).
+- Dois tipos: curiosidade "o quê" (para frente), causada por imprevisibilidade, U invertido, pede pouco conhecimento prévio; curiosidade "por quê" (para trás), causada por incongruência, linear com a incongruência, exige conhecimento prévio e uma previsão, vem com surpresa e leva a busca de causa mesmo sem utilidade prática.
+- Se a resolução decepciona (resposta sem graça), a expectativa de satisfação cai e o ciclo curiosidade-resolução enfraquece (nota de rodapé 3).
+- Curiosidade ≠ interesse situacional: estratégias que geram interesse (diversão, elogio) podem atrapalhar a curiosidade e vice-versa. Medidas de ambos são confusas (mesmas perguntas medem coisas diferentes).
 
 Uso no vídeo (inferência, para testar):
-1. O gancho deve tornar UMA lacuna específica visível nos primeiros segundos (pergunta, charada, resultado sem explicação).
-2. Dar um pedaço concreto de informação antes da lacuna, para o espectador sentir que está perto.
-3. Convidar a adivinhar e dar o retorno depois (guessing + feedback).
-4. A resposta precisa vir logo e ser crível; lacuna sem pagamento próximo contraria a previsão de Loewenstein.
-5. Estes estudos são com texto ou perguntas em laboratório, não vídeo. Ninguém testou isso em vídeo curto aqui.
+1. Gancho com UMA lacuna específica e reconhecível nos primeiros segundos (pergunta, charada, resultado sem explicação).
+2. Dar antes um pedaço concreto da informação (conhecimento mínimo), para a lacuna parecer pequena e alcançável.
+3. Dois tipos de gancho a comparar: "o quê vem a seguir?" e "por que isso aconteceu?" (resultado surpreendente com a causa adiada).
+4. Convidar a adivinhar e dar o retorno logo depois.
+5. Pagamento rápido, crível e que valha a promessa; decepção enfraquece o ciclo e pode afastar quem voltaria.
+6. Não distrair da lacuna com enfeites no meio do caminho.
 
-## 2. Tarefas inacabadas: o que a meta-análise mostra (LIDO)
-Ghibellini e Meier (2025, Humanities and Social Sciences Communications). Resumo dos autores: sem vantagem de memória para tarefas inacabadas (efeito Zeigarnik), mas tendência geral de retomar tarefas (efeito Ovsiankina).
-- Números que li: razão média de lembrança interrompidas/concluídas = 1,13 (7 publicações, com o estudo original de 1927) ou 1,09 (6 sem ele); tamanho de efeito médio dz = 0,15 (8 publicações), pequeno. Retomada: cerca de 67% das tarefas interrompidas foram retomadas (21 publicações), acima do acaso de 50%.
-- Interpretação dos autores: sem apoio a vantagem de memória quando não se considera situação e diferenças individuais; o efeito apareceu em condição "relaxada" e não em condição "neutra". Dizem que o efeito de Zeigarnik "não tem validade universal".
-- Limites dos autores: busca com termos limitados; estudos muito diferentes entre si.
-- Correção da 1ª versão: não é "zero". Há um efeito médio pequeno e inconsistente; os autores concluem que não é geral.
-- Uso no vídeo (inferência): não justificar loop aberto pelo efeito Zeigarnik. A vontade de retomar (67%) foi medida em tarefas que a pessoa já tinha começado, como quebra-cabeças, não em vídeo passivo.
+## 2. Tarefas inacabadas (LIDO por inteiro)
+Ghibellini e Meier (2025, Humanities and Social Sciences Communications): meta-análise de 59 publicações (38 sobre Zeigarnik, 20 sobre Ovsiankina, 1 sobre ambos), busca em PsycInfo e PSYINDEX em 14/09/2023.
+- Medida mais usada, razão entre as médias de lembrança (interrompidas/concluídas): 0,99 (38 publicações), "recordadas aproximadamente igual". Os autores dizem que os valores do estudo original de 1927 são inflados.
+- Proporção de interrompidas entre tudo que foi lembrado: 49,43% (14 publicações) e 49,16% sem o estudo de 1927: levemente a favor das concluídas.
+- Tamanho de efeito dz = 0,15 (8 publicações), pequeno. A razão média por participante (1,13, ou 1,09 sem 1927) é, segundo os autores, muito influenciada por valores extremos. Correção: na 1ª versão apresentei esses 1,13/1,09 como o número principal; o confiável é 0,99.
+- Por situação (16 publicações): neutra 0,96; de desempenho 0,88; relaxada 1,07. Motivação de realização quase sem efeito (alta 1,00; moderada 0,92; baixa 0,96).
+- Retomada (Ovsiankina): cerca de 67% das tarefas interrompidas foram retomadas (21 publicações); os autores dizem que é um indicativo, não um valor absoluto, porque os métodos variam.
+- Interpretação dos autores: sem vantagem de memória geral; o efeito, se existe, depende de situação e de diferenças individuais. Hipótese deles (especulativa) é que hoje há menos autoridade do experimentador e menos envolvimento com tarefas. Dinheiro pelo participar reduziu a retomada em um estudo citado. Limites: busca com termos restritos, estudos muito diferentes, poucos estudos por medida.
+- Uso no vídeo (inferência): não justificar loop aberto pelo efeito Zeigarnik. A vontade de retomar foi medida em tarefas que a pessoa começou (quebra-cabeças), não em vídeo passivo.
 
 ## 3. Uso pesado de vídeo curto e atenção (LIDO só a reportagem)
-Nguyen e colegas (2025, Psychological Bulletin, "Feeds, Feelings, and Focus"). Li a reportagem do PsyPost, não o artigo. Segundo ela: 71 estudos na revisão, 70 na meta-análise, 98.299 participantes; a maioria feita na Ásia; associação negativa moderada entre uso e desempenho cognitivo, mais consistente para atenção e controle inibitório; estudos com escalas de vício mostraram ligação mais forte que os que mediram só tempo de uso; sem associação significativa geral com imagem corporal ou autoestima. Limites que os autores citam: maioria transversal (sem causalidade), uso medido por relato próprio, busca focada em inglês, poucos estudos controlaram o uso geral de redes.
-- Os números r = −0,38 (atenção) e r = −0,41 (controle inibitório) e "14 estudos, todos na China" vieram de um resumo de busca e NÃO aparecem no trecho que li. Não usar até ver o artigo.
+Nguyen e colegas (2025, Psychological Bulletin, "Feeds, Feelings, and Focus"), segundo o PsyPost:
+- 71 estudos na revisão, 70 na meta-análise, 98.299 participantes; maioria feita na Ásia; amostra com jovens e adultos.
+- Associação negativa moderada entre uso e desempenho cognitivo, mais consistente para atenção e controle inibitório. Associação pequena com ansiedade, depressão, estresse e sono. Sem associação geral significativa com imagem corporal ou autoestima.
+- Estudos com escalas de vício acharam ligação mais forte que os que mediram só tempo de uso.
+- Explicação teórica dos autores: teoria dupla de habituação e sensibilização (estímulo rápido pode dessensibilizar para tarefas lentas). É teoria, não resultado.
+- Limites que os autores citam: maioria transversal (sem causalidade; quem já tem ansiedade ou déficit de atenção pode usar mais), uso por relato próprio, busca focada em inglês, poucos estudos controlaram o uso geral de redes.
+- Os números r = −0,38 e r = −0,41 e "14 estudos, todos na China" vieram de um resumo de busca e NÃO aparecem na reportagem. Não usar até ver o artigo.
 - Uso no vídeo (inferência): não afirmar que o público "perdeu a atenção"; os dados são de associação.
 
 ## 4. Itens da 1ª rodada que continuam NÃO LIDOS
-- Cortes e resposta de orientação (Lang 1993; Heimann 2016: PDF em https://sas-space.sas.ac.uk/6561/1/Heimann%20et%20al%202016.pdf). Resumo de busca: cortes provocam resposta de orientação (coração, EEG). Não diz qual frequência é a ideal. Confiança: média, sem o texto.
-- Peak-end (Kahneman e colegas, 1993): a lembrança de uma experiência segue o pico e o final. Só resumos secundários. Confiança: média, sem o texto.
-- Mayer (multimídia): repetir na tela a fala tem evidência mista; legenda no mesmo idioma ajuda quando a imagem já foi bem processada. Sem o texto.
-- Gruber (2014): ligação curiosidade-dopamina-memória. Sem o texto; use o Kang 2009 acima, que está lido.
+- Cortes e resposta de orientação (Lang 1993; Heimann 2016, PDF em https://sas-space.sas.ac.uk/6561/1/Heimann%20et%20al%202016.pdf): resumo de busca diz que cortes provocam resposta de orientação; não diz qual frequência é ideal.
+- Peak-end (Kahneman e colegas, 1993): lembrança segue pico e final. Só resumos secundários.
+- Mayer (multimídia): repetir na tela a fala tem evidência mista. Sem o texto.
+- Gruber (2014): curiosidade, dopamina e memória. Sem o texto; usar o Kang 2009.
 - Feed infinito e recompensa variável: só blogs; não usar como base.
 
 ## Sem resposta (próximas leituras)
-- Ler o texto todo do Shin e Kim e o artigo original de Nguyen.
-- Obter Lang 1993, Kahneman 1993, Gruber 2014 e o estudo de guessing + feedback (Loewenstein e colegas, 1992).
-- Estudos sobre vídeo curto vertical, som, rostos e movimento.
-- Experimentos de curiosidade em vídeo (não só em texto).
+- Artigo original de Nguyen; Lang 1993; Kahneman 1993; Gruber 2014; Mayer.
+- Estudos de curiosidade em vídeo (não só texto e perguntas), de som, rostos e movimento, e de vídeo curto vertical.
