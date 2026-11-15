@@ -2,6 +2,7 @@
 
 Pesquisa em 15/11/2026. Limite: li só resumos e páginas de busca, não os artigos completos. Tamanhos de efeito e métodos NÃO foram verificados. A coluna "uso no vídeo" é inferência minha, não resultado do estudo: tudo "para testar".
 Confiança: média = estudo publicado, mas só resumo lido; baixa = fonte secundária.
+2ª rodada (15/11/2026): tentei abrir os artigos completos em PMC, PubMed e Springer; todos bloquearam com verificação anti-robô (reCAPTCHA / desafio de navegador). Não contornei. Para ler o texto completo, colocar os PDFs em `video-curto/` e pedir a leitura.
 
 ## 1. Cortes provocam reorientação da atenção
 - Estudo: Lang e colegas (1993, Communication Research) sobre cortes em televisão. Cortes, relacionados ou não ao conteúdo, provocaram resposta de orientação (sinais fisiológicos como o coração). Estudos posteriores com EEG e rastreio ocular também veem resposta a cortes. Debatido: o quanto a continuidade visual entre planos guia a atenção depois do corte. Confiança: média.
