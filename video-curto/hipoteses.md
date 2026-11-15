@@ -29,6 +29,7 @@ Itens marcados [OFICIAL] são regra ou definição da plataforma. Todo o resto �
 - Tirar trechos "mortos" é recomendação comum. Confiança: média. Base científica geral em `ciencia-atencao.md`.
 
 ## Loops de curiosidade e estrutura
+- Base científica lida (ver `ciencia-atencao.md`): curiosidade surge de uma lacuna de informação reconhecida; é maior com lacuna intermediária e algum conhecimento prévio; adivinhar com retorno aumentou a curiosidade em laboratório; a curiosidade some se a atenção é desviada. São estudos com texto/perguntas, não vídeo. Para testar: gancho com uma lacuna específica e pagamento rápido.
 - Abrir UMA pergunta cedo e fechar no fim. Confiança: média. https://faceless.so/blog/story-structures-for-short-form-video
 - Fechamento em loop (última frase completa a primeira, ou último visual repete o primeiro). Confiança: média (técnica) / baixa (efeito). https://faceless.so/blog/looping-short-videos-tutorial-story-seamless-loops
 - [OFICIAL] O YouTube não conta loops nas "Engaged views". Um loop pode render replays, mas não necessariamente views engajadas. Implica: medir o efeito do loop em tempo médio assistido e % assistido, não só em views.
