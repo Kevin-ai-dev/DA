@@ -4,7 +4,7 @@ Atualizado em 15/11/2026 com os PDFs que você enviou, guardados em `fontes/`. C
 Legenda: LIDO = texto do PDF lido (indico as partes); NÃO LIDO = só resumo de busca, sem o texto.
 
 ## O que foi lido e o que não foi
-- Loewenstein (1994): LIDO resumo e págs. 75-76, 87-94 (10 de 24 págs.). Faltam: revisão histórica das teorias, págs. 77-86 e 95-98.
+- Loewenstein (1994): LIDO por inteiro (24 págs.; as últimas 3 são só referências). Os estudos que ele cita (Jones 1979, Loewenstein e colegas 1992, Lowry e Johnson 1981, Felcher e colegas 1993, Berlyne) NÃO foram lidos no original; o que escrevo deles é o que o Loewenstein conta.
 - Kang e colegas (2009): LIDO método, resultados e discussão (quase todo).
 - Shin e Kim (2019): LIDO resumo e as partes sobre lacuna de informação, gatilhos e diferença entre curiosidade e interesse. Não li o texto todo (22 págs.).
 - Ghibellini e Meier (2025): LIDO resumo, resultados e discussão. Não li a introdução histórica em detalhe.
@@ -19,7 +19,12 @@ Legenda: LIDO = texto do PDF lido (indico as partes); NÃO LIDO = só resumo de 
 - Adivinhar COM retorno sobre o acerto aumentou a curiosidade; adivinhar sozinho ou só receber retorno não teve efeito principal (experimento dos estados dos EUA).
 - Sem perceber a lacuna não há curiosidade (quem acha que já sabe quase tudo não se interessa).
 - A curiosidade é transitória: exige atenção e some se a atenção é desviada. O autor também descreve que a satisfação pode decepcionar.
-- Previsão da teoria (não vi teste dela no trecho lido): pessoas evitam se expor a situações que geram curiosidade quando há pouca chance de satisfação ou demora longa.
+- Previsão da teoria (não vi teste direto dela no artigo): pessoas evitam se expor a situações que geram curiosidade quando há pouca chance de satisfação ou demora longa.
+- Intensa, passageira, impulsiva e que decepciona (págs. 86 e 92): a curiosidade é forte mas some rápido quando o estímulo sai de vista; pode levar a agir contra o próprio interesse; e, quando satisfeita, o resultado costuma ser decepcionante (exemplo citado: entrevista com 30 pessoas sobre a correspondência recebida, apresentada em congresso, não publicada em periódico). Uso no vídeo (inferência): a entrega precisa valer a promessa do gancho.
+- Controvérsia (pág. 85-86): estudo de sala de aula citado (Lowry e Johnson, 1981; alunos de 5º e 6º ano): 45% do grupo com interação conflituosa abriu mão do recreio para ver um filme, contra 18% do grupo sem controvérsia. É o único apoio para "afirmação polêmica" como gancho que li; é de sala de aula, não de vídeo.
+- Incongruência (Hebb, Piaget, Hunt, págs. 82-83): a ideia de U invertido entre surpresa e curiosidade é descrita pelo autor como intuitiva mas com pouco apoio empírico (uma revisão sistemática achou apoio misto). O U invertido aparece com dados em Kang (2009), com a confiança na resposta.
+- Escalas de curiosidade como traço (págs. 77-79): medidas inconsistentes; o autor conclui que estudar curiosidade de situação é mais promissor. Sem efeito direto para vídeo.
+- Educação (pág. 94): para gerar curiosidade é preciso uma base de conhecimento prévia ("primar a bomba") e tornar visíveis lacunas administráveis. Combina com "contexto mínimo" antes do gancho no `metodo.md` (inferência).
 - Limites do próprio autor: a teoria trata só de curiosidade epistêmica específica; muitas buscas por informação ocorrem sem curiosidade; várias previsões "ainda não foram testadas".
 
 **Kang e colegas (2009, Psychological Science), "The Wick in the Candle of Learning".** Perguntas de conhecimento geral:
@@ -61,7 +66,7 @@ Nguyen e colegas (2025, Psychological Bulletin, "Feeds, Feelings, and Focus"). L
 - Feed infinito e recompensa variável: só blogs; não usar como base.
 
 ## Sem resposta (próximas leituras)
-- Ler o restante do Loewenstein, o texto todo do Shin e Kim e o artigo original de Nguyen.
+- Ler o texto todo do Shin e Kim e o artigo original de Nguyen.
 - Obter Lang 1993, Kahneman 1993, Gruber 2014 e o estudo de guessing + feedback (Loewenstein e colegas, 1992).
 - Estudos sobre vídeo curto vertical, som, rostos e movimento.
 - Experimentos de curiosidade em vídeo (não só em texto).
